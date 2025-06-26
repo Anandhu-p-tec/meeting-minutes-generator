@@ -1,4 +1,5 @@
 Description:
+
 meeting-minutes-generator/
 ├── app/ # FastAPI backend logic
 │ ├── main.py # Entry point of the FastAPI API
@@ -17,8 +18,8 @@ meeting-minutes-generator/
 └── .env # Environment variables (API keys)
 
 How to Run
-Install dependencies:
-pip install -r requirements.txt
+    Install dependencies:
+    pip install -r requirements.txt
 
 Set up your API Key:
 
