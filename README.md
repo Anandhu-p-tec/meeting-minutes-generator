@@ -65,3 +65,7 @@ Create a sample screenshot or logo
 Write sample usage with API calls (curl, Postman, etc.)
 
 Or generate the final README.md file for you automatically.
+
+# meeting-minutes-generator
+
+Generate meeting minutes from transcripts using Whisper and OpenAI
