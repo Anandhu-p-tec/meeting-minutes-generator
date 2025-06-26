@@ -1,0 +1,8 @@
+torch
+python-docx
+faster-whisper
+langchain_openai
+langchain-core
+langchain
+langchain-text-splitters
+python-dotenv

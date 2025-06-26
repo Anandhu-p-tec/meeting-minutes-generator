@@ -1,0 +1,29 @@
+[0.00s -> 0.30s] Good morning everyone, let's begin. This is our monthly product strategy meeting for June.
+[0.30s -> 1.20s] First on the agenda, we’ll review progress on last month’s action items. Rachel, please go ahead.
+[1.20s -> 3.00s] Sure. From the marketing side, we finalized the campaign visuals and ran A/B tests. The best performing version had a 15% higher click-through rate.
+[3.00s -> 4.30s] That’s promising. Did the product video get finalized as well?
+[4.30s -> 6.10s] Yes. The final cut was delivered yesterday, and we’ll begin distribution next week.
+[6.10s -> 8.30s] Great. Moving on to the engineering update. Ajay, please share the sprint summary.
+[8.30s -> 10.00s] Engineering completed all user story tickets except two related to payment integration, which are in QA. We had to rework part of the checkout logic based on partner feedback.
+[10.00s -> 12.00s] That sounds like progress. Do we have a projected timeline for the payment update rollout?
+[12.00s -> 13.40s] If QA is completed by Wednesday, we can ship it to staging on Thursday and go live by Monday.
+[13.40s -> 15.10s] Okay. Let’s document that as an action item.
+[15.10s -> 17.50s] Next up is customer support. Jenna, any recurring issues from last month?
+[17.50s -> 20.20s] Yes, ticket volume increased around mobile logins failing on iOS 17.3. The dev team is investigating, and support has issued a temporary workaround.
+[20.20s -> 22.00s] Add that to the product roadmap review. It might require a patch release.
+[22.00s -> 25.00s] Moving to finance: Tom, how are we tracking against budget?
+[25.00s -> 27.30s] Marketing slightly overran by 5%, but overall Q2 burn is still within our projections. No immediate concerns.
+[27.30s -> 30.00s] Let’s schedule a deeper financial review for next Friday. Send a calendar invite.
+[30.00s -> 33.00s] Mid-meeting check: any blockers raised across teams?
+[33.00s -> 35.00s] None from my side, but I’d like to request support from DevOps to help automate weekly reports.
+[35.00s -> 37.30s] Noted. DevOps will prioritize that next sprint.
+[37.30s -> 40.00s] Let’s revisit hiring updates. Maria, how are interviews progressing?
+[40.00s -> 43.30s] We've hired a new product designer. Backend developer role is still open — two final interviews scheduled this week.
+[43.30s -> 46.00s] Excellent. We’ll revisit this next month to evaluate onboarding outcomes.
+[46.00s -> 50.00s] Quick reminder to everyone: compliance training deadline is July 5th. Please complete it before the break.
+[50.00s -> 52.00s] Will do. Also, are we presenting to the board on the 18th or 25th?
+[52.00s -> 54.00s] It’s the 18th. Slides need to be finalized by the 12th.
+[54.00s -> 56.30s] Understood. I’ll work with the strategy team to polish the draft deck.
+[56.30s -> 58.00s] Thank you. Last item — Q&A. Any other comments?
+[58.00s -> 59.00s] Just one: let’s start the roadmap review earlier next meeting so we have more time.
+[59.00s -> 60.00s] Good point. Thanks, everyone. Meeting adjourned.
